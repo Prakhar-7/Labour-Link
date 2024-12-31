@@ -1,0 +1,18 @@
+/* .home {
+  scroll-snap-type: y mandatory;
+} */
+
+.home {
+  display: flex;
+  flex-direction: column;
+  /* gap: 1rem; */
+  align-items: center;
+  /* border: 5px solid black; */
+}
+
+/* .section {
+  margin: 0px auto;
+  max-width: 1080px;
+  height: 100vh;
+  scroll-snap-align: center;
+} */

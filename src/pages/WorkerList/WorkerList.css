@@ -1,0 +1,51 @@
+.workerList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+    padding-top: 15px;
+}
+
+.workerList-main {
+    width: 90vw;
+    border-radius: 5px;
+}
+
+.heading {
+    font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.workerList-main-list {
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    margin-bottom: 0.5em;
+    background-color: #51b3c1;
+    padding: 20px;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+
+}
+
+.image h1{
+    padding: 40px;
+    /* border: 2px solid black; */
+    border-radius: 25%;
+}
+
+.details {
+    /* border: 2px solid black; */
+    flex: 0.75;
+}
+
+.getInfo {
+    /* display: flex;
+    align-items: center; */
+    margin-top: 25px;
+}
