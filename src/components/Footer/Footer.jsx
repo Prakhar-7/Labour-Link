@@ -34,9 +34,9 @@ const Footer = () => {
         <div className="footer-main">
           <h2>Contact</h2>
           <div>
-            <span>Email: support@workers.com</span>
-            <span>Phone: (555) 123-4567</span>
-            <span>Address: 123 Worker Street</span>
+            <a href="mailto: sriprakhar777@gmail.com"><li>Email: sriprakhar777@gmail.com</li></a>
+            <a href="tel:+919696013164"><li>Phone: 9696013164</li></a>
+            <li>Address: Gorakhpur, 273001</li>
           </div>
         </div>
       </div>
